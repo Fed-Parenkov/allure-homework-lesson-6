@@ -1,1 +1,1 @@
-# allure-homework-lesson-6
+# Allure Reports. Homework lesson #6
